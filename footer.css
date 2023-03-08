@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+.footerStyle{
+    height: 15vh;
+    display: flex;
+    background-color: rgba(19, 18, 18, 0.848);
+    /* margin-left: 300px; */
+}
+
+.footerStyle div{
+    /* margin: 20px; */
+    /* margin-left: 4px; */
+    /* margin-right: 100px; */
+    color: antiquewhite;
+    size: 20px;
+}
+
+.follow{
+    width: 150px;
+    margin: 40px;
+    margin-left: 30%;
+}
+.follow i{
+    /* display: flex; */
+    
+    margin: 10px; 
+    margin-left: 0px;
+    color: antiquewhite;
+}
+
+.support{
+    margin: 40px;
+    margin-left: 20%;
+}
+
+.footer h4{
+    margin-top: 40px;
+    
+    /* padding: 10; */
+}
